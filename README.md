@@ -1,6 +1,7 @@
 # Applied-Statistics
 
 This github our final project for the course "Applied Statistics". 
+
 By: Omer Shadmi (327722575) & Inbar Fabian (328274212). 
 
 In this project we've demonstrated the usage of all the statistical tools we've seen in class:
